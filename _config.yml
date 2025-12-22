@@ -4,16 +4,16 @@
 baseurl:
 url: https://biases-we-research-by.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: Biases We Research By
+subtitle: "A tutorial on biases in NLP research"
+description: "This is the website of the tutorial 'Biases We Research By', which will be presented at LREC 2026."
+keywords: bias, nlp, semantic web, conformal prediction
+timezone: Europe/Rome
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: biases-we-research-by/biases-we-research-by.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2025-12-03
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -39,7 +39,7 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
+        enabled: false
         image_alt: 闷骚的程序员
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
+author:
+organization: University of Turin
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: biases-we-reserach-by
+location: Turin, Italy
+email: marcoantonio.stranisci@unito.it
 
 # ---------------- #
 #    Navigation    #
