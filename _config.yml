@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://biases-we-research-by.github.io
 date_format: "ordinal"
 title: 码志
 subtitle: "公众号：闷骚的程序员"
@@ -70,7 +70,7 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: home
   -
     href: /program/
     label: program
