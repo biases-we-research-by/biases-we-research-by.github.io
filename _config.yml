@@ -11,7 +11,7 @@ keywords: bias, nlp, semantic web, conformal prediction
 timezone: Europe/Rome
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2026
 # 源码仓库，请替换成自己的
 repository: biases-we-research-by/biases-we-research-by.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -70,13 +70,13 @@ email: marcoantonio.stranisci@unito.it
 navs:
   -
     href: /
-    label: home
+    label: Home
   -
-    href: /program/
-    label: program
+    href: /Program/
+    label: Program
   - 
     href: /organizers/
-    label: organizers
+    label: Organizers
 
 # ---------------- #
 #       RSS        #

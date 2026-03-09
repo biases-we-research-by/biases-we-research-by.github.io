@@ -4,8 +4,8 @@ title: Program
 description: Program
 keywords: 
 comments: true
-menu: program
-permalink: /program/
+menu: Program
+permalink: /Program/
 ---
 
 TBD
