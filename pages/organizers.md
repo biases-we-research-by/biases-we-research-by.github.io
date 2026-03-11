@@ -66,13 +66,13 @@ permalink: /organizers/
 <div class="organizers-container">
 
 
-<div class="organizer-card">
-<img class="organizer-photo" src="/assets/images/user.png">
-<div class="organizer-info">
-<h3>Islam Borinca</h3>
-<div class="organizer-bio">
-Assistant Professor of Social Psychology at the University of Groningen and a Visiting Lecturer/Assistant Professor at University College Dublin. His research focuses on social perception, bias, and inter-group relations. He serves as Associate Editor for Peace and Conflict: Journal of Peace Psychology and holds editorial roles with the Journal of Experimental Social Psychology, Analyses of Social Issues & Public Policy, British Journal of Social Psychology, and Journal of Community & Applied Social Psychology.
-</div>
+  <div class="organizer-card">
+  <img class="organizer-photo" src="/assets/images/user.png">
+    <div class="organizer-info">
+    <h3>Islam Borinca</h3>
+      <div class="organizer-bio">
+      Assistant Professor of Social Psychology at the University of Groningen and a Visiting Lecturer/Assistant Professor at University College Dublin. His research focuses on social perception, bias, and inter-group relations. He serves as Associate Editor for Peace and Conflict: Journal of Peace Psychology and holds editorial roles with the Journal of Experimental Social Psychology, Analyses of Social Issues & Public Policy, British Journal of Social Psychology, and Journal of Community & Applied Social Psychology.
+      </div>
 </div>
 </div>
 
@@ -100,7 +100,7 @@ PhD student in the Computer Science Department at the University of Turin, with 
 
 
 <div class="organizer-card">
-<img class="organizer-photo" src="/assets/images/user.png">
+<img class="organizer-photo" src="/assets/images/ephanthus-kanyugi.jpg">
 <div class="organizer-info">
 <h3>Ephantus Kanyugi</h3>
 <div class="organizer-bio">
@@ -109,14 +109,25 @@ Kenyan labor organizer, data specialist, and Vice President of the Data Labelers
 </div>
 </div>
 
+<div class="organizer-card">
+<img class="organizer-photo" src="/assets/images/joan-kinyua.jpg">
+<div class="organizer-info">
+<h3>Joan Kinyua</h3>
+<div class="organizer-bio">
+Is the founding President of the Data Labelers Association of Kenya (DLA) and a leading voice in the movement for ethical and dignified labour standards in the digital and AI ecosystem. Drawing from her own experience as a data labeler, Joan has become a strong advocate for transparent practices, fair working conditions, and recognition of data annotators as essential contributors to modern AI systems. Her leadership has brought a new level of visibility to the hidden workforce powering machine learning, and she works closely with workers, civil society, and policy institutions to drive reforms that centre worker agency, mental well-being, and sustainable livelihoods. Joan is committed to transforming AI from an extractive industry into one that respects the humanity, expertise, and rights of the people who make it possible.
+</div>
+</div>
+</div>
+
+
 
 <div class="organizer-card">
-<img class="organizer-photo" src="/assets/images/marco_antonio_stranisci.jpeg">
-<div class="organizer-info">
-<h3>Marco Antonio Stranisci</h3>
-<div class="organizer-bio">
-Researcher in Computer Science at the University of Turin, co-founder of an NLP start-up in Italy, former human-rights activist, and former Humanities teacher. His research interests span bias and hate speech detection, human-AI value misalignment, and human-label variation. He frequently delivers tutorials and educational sessions on ethical AI and social aspects of NLP.
-</div>
+  <img class="organizer-photo" src="/assets/images/marco_antonio_stranisci.jpeg">
+  <div class="organizer-info">
+  <h3>Marco Antonio Stranisci</h3>
+    <div class="organizer-bio">
+    Researcher in Computer Science at the University of Turin, co-founder of an NLP start-up in Italy, former human-rights activist, and former Humanities teacher. His research interests span bias and hate speech detection, human-AI value misalignment, and human-label variation. He frequently delivers tutorials and educational sessions on ethical AI and social aspects of NLP.
+    </div>
 </div>
 </div>
 
