@@ -67,7 +67,7 @@ permalink: /organizers/
 
 
   <div class="organizer-card">
-  <img class="organizer-photo" src="/assets/images/user.png">
+  <img class="organizer-photo" src="/assets/images/IMG_2690.jpeg">
     <div class="organizer-info">
     <h3>Islam Borinca</h3>
       <div class="organizer-bio">
