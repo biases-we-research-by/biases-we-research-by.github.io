@@ -14,7 +14,18 @@ permalink: /organizers/
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px,1fr));
   gap: 30px;
-  margin-top: 30px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top:5%;
+  padding-bottom:5%;
+  background: linear-gradient(to right, #f0f4f8, #d9e2ec)
+}
+
+@media (max-width: 600px) {
+.organizers-container{
+  padding-left: 5%;
+  padding-right: 5%;
+}
 }
 
 .organizer-card{
@@ -25,6 +36,7 @@ permalink: /organizers/
   border-radius: 10px;
   background: #fff;
   align-items: flex-start;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
 }
 
 .organizer-photo{

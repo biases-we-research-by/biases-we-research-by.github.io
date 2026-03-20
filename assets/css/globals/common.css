@@ -5,6 +5,7 @@
 .markdown-body,body {
     font-family: -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 16px;
+    background: linear-gradient(to right, #f0f4f8, #d9e2ec);
     line-height: 1.6;
     word-wrap: break-word;
     -webkit-tap-highlight-color: transparent;
@@ -37,10 +38,12 @@
 }
 
 .site-header {
+    margin-left:10%;
+    margin-right:20%;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 20px;
-    border-bottom: 1px solid #eee
+    border-bottom: 0px solid #eee
 }
 
 .site-header .account-switcher {
@@ -160,13 +163,14 @@
 
 .site-footer {
     position: relative;
+    margin-left:10%;
+    margin-right:20%;
     margin-top: 40px;
     padding-top: 40px;
     padding-bottom: 40px;
     font-size: 12px;
     line-height: 1.5;
     color: #777;
-    border-top: 1px solid #eee
 }
 
 .markdown-body h1,.markdown-body h2 {
