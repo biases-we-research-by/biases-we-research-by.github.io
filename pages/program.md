@@ -47,7 +47,7 @@ permalink: /Program/
         </div>
 
         <div style="margin-bottom: 25px;">
-          <h4>Section 3: Data Labelers <span style="font-weight: normal; color: #555;">(4:30pm–5:30pm)</span></h4>
+          <h4>Section 3: Discuss the issues deriving from the human labor behind fair and ethical NLP systems <span style="font-weight: normal; color: #555;">(4:30pm–5:30pm)</span></h4>
           <p style="line-height: 1.6;">
             <p><span style="color:grey">Speaker: Ephantus Kanyugi & Joan Kinyua</span></p>
             While discussions of bias in NLP often center on datasets, models, and algorithms, far less attention is paid to the human labor behind them: the global network of data labelers, content moderators, and annotators whose invisible work shapes every AI system. This session connects the academic conversation on bias in NLP to the worker realities that produce these datasets, revealing how structural inequalities, pay disparities, and cultural invisibility introduce another layer of bias—one rooted in labor practices rather than data points.
