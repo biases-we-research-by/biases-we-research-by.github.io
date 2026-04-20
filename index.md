@@ -41,7 +41,7 @@ permalink: /
     <div style="display: flex; justify-content: center; gap: 20px;">
 
       <!-- LinkedIn -->
-      <a href="" target="_blank" 
+      <a href="https://www.linkedin.com/company/112793989/admin/dashboard/" target="_blank" 
          style="text-decoration: none; color: #0A66C2; font-size: 1.5rem;">
         <i class="fab fa-linkedin"></i>
       </a>
