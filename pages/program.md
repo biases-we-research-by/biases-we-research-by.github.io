@@ -28,7 +28,7 @@ permalink: /Program/
 
         <div style="margin-bottom: 25px;">
           <h4>Section 1: Bias from a Social Psychology Perspective <span style="font-weight: normal; color: #555;">(14:15–15:00)</span></h4>
-                  <p><span style="color:grey">Speaker: Islam Borincza</span></p>
+                  <p><span style="color:grey">Speaker: Islam Borinca</span></p>
           <p style="line-height: 1.6;">
             This session introduces bias through a social psychological lens, beginning with an interactive exercise before moving to key theoretical concepts and measurement approaches. Participants will take part in a series of implicit association tasks, followed by a discussion of implicit and explicit bias, in-group and out-group dynamics, and subtle versus blatant forms of bias. The session will conclude by connecting psychological approaches to the study of bias with current work in NLP.
           </p>
